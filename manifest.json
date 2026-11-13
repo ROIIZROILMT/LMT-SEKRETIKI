@@ -60,6 +60,19 @@
       "size": 859731,
       "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/d6c02dfb863b4da91afd10e96e6967b94cb8c130/files/LmtGunsClient-1.0.0.jar",
       "updated": "13.11.2026 23:18"
+    },
+    {
+      "id": "mod:rprenames_lmt",
+      "name": "RPRenames-LMT-1.0.0",
+      "type": "mod",
+      "modId": "rprenames_lmt",
+      "oldNames": [],
+      "enabled": true,
+      "fileName": "RPRenames-LMT-1.0.0.jar",
+      "sha1": "d0208564b9b38becaf6b13b1cd74c0a4130406e5",
+      "size": 26379,
+      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/3842bfe98d7c8d315b3a88a2ea0cfbd53eebda91/files/RPRenames-LMT-1.0.0.jar",
+      "updated": "13.11.2026 23:18"
     }
   ],
   "schema": 1,
