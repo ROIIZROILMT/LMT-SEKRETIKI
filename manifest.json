@@ -11,8 +11,20 @@
       "size": 11466,
       "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/804f5031754a8a6845a4ca301e6ed2772ce196f4/files/DndCore-pack.zip",
       "updated": "13.11.2026 23:16"
+    },
+    {
+      "id": "pack:4969416f",
+      "name": "LMT",
+      "type": "resourcepack",
+      "oldNames": [],
+      "enabled": true,
+      "fileName": "LMT.zip",
+      "sha1": "a43e58d9e13f5045d1b71a5cad0c5859a46d46e5",
+      "size": 21049519,
+      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/fbbbe0101b5ca4cf3fefdb805fd61b7329970f70/files/LMT.zip",
+      "updated": "13.11.2026 23:17"
     }
   ],
   "schema": 1,
-  "updated": "13.11.2026 23:16"
+  "updated": "13.11.2026 23:17"
 }
