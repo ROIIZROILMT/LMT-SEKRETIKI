@@ -23,6 +23,18 @@
       "size": 21049519,
       "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/fbbbe0101b5ca4cf3fefdb805fd61b7329970f70/files/LMT.zip",
       "updated": "13.11.2026 23:17"
+    },
+    {
+      "id": "pack:7c52d610",
+      "name": "LmtCars-pack",
+      "type": "resourcepack",
+      "oldNames": [],
+      "enabled": true,
+      "fileName": "LmtCars-pack.zip",
+      "sha1": "351915d41d0db7a8986d57bad5eee802b488395f",
+      "size": 776314,
+      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/001d3e0bfe7e790f0abc941a23a303c0aad3ee0a/files/LmtCars-pack.zip",
+      "updated": "13.11.2026 23:17"
     }
   ],
   "schema": 1,
