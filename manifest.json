@@ -47,6 +47,19 @@
       "size": 22648188,
       "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/6acab4788fc1eee0112830951c893a6b450b37a1/files/LmtGuns-pack.zip",
       "updated": "13.11.2026 23:18"
+    },
+    {
+      "id": "mod:lmtgunsclient",
+      "name": "LmtGunsClient-1.0.0",
+      "type": "mod",
+      "modId": "lmtgunsclient",
+      "oldNames": [],
+      "enabled": true,
+      "fileName": "LmtGunsClient-1.0.0.jar",
+      "sha1": "3e3e603245d0fa9c219b083eb51b71d28c6bd818",
+      "size": 859731,
+      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/d6c02dfb863b4da91afd10e96e6967b94cb8c130/files/LmtGunsClient-1.0.0.jar",
+      "updated": "13.11.2026 23:18"
     }
   ],
   "schema": 1,
