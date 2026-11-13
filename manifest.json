@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "pack:0b0a69cc",
+      "name": "DndCore-pack",
+      "type": "resourcepack",
+      "oldNames": [],
+      "enabled": true,
+      "fileName": "DndCore-pack.zip",
+      "sha1": "c8c5df75a4a4683ce677259751ad717432fbfdb3",
+      "size": 11466,
+      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/804f5031754a8a6845a4ca301e6ed2772ce196f4/files/DndCore-pack.zip",
+      "updated": "13.11.2026 23:16"
+    }
+  ],
+  "schema": 1,
+  "updated": "13.11.2026 23:16"
+}
