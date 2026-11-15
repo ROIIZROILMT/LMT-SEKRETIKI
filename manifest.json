@@ -43,10 +43,10 @@
       "oldNames": [],
       "enabled": true,
       "fileName": "LmtGuns-pack.zip",
-      "sha1": "04740ed86b4456dde3b8622f499cc32580c3e3a0",
-      "size": 22648188,
-      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/6acab4788fc1eee0112830951c893a6b450b37a1/files/LmtGuns-pack.zip",
-      "updated": "13.11.2026 23:18"
+      "sha1": "ed382dba02e293530b0932bd702a00d4dadecb9e",
+      "size": 23187300,
+      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/0deba7b0cc9cac1f5de962032b31db41a3223855/files/LmtGuns-pack.zip",
+      "updated": "15.11.2026 11:57"
     },
     {
       "id": "mod:lmtgunsclient",
@@ -91,5 +91,5 @@
     }
   ],
   "schema": 1,
-  "updated": "15.11.2026 11:56"
+  "updated": "15.11.2026 11:57"
 }
