@@ -71,8 +71,8 @@
       "fileName": "RPRenames-LMT-1.0.0.jar",
       "sha1": "38e76124ec94b6af5a41f855b6ebcb8372dc244b",
       "size": 36068,
-      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/b7983dcb9da8098dac078f001dd41a4bec5c9c6b/files/RPRenames-LMT-1.0.0.jar",
-      "updated": "14.11.2026 04:54"
+      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/cb486e098b69d2f8e89b788025daff00ba27cf04/files/RPRenames-LMT-1.0.0.jar",
+      "updated": "15.11.2026 11:56"
     },
     {
       "id": "mod:lmtupdater",
@@ -91,5 +91,5 @@
     }
   ],
   "schema": 1,
-  "updated": "14.11.2026 04:54"
+  "updated": "15.11.2026 11:56"
 }
