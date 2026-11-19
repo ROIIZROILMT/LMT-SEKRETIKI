@@ -19,10 +19,10 @@
       "oldNames": [],
       "enabled": true,
       "fileName": "LMT.zip",
-      "sha1": "0b23789d43d73eaa9f46fb2a33af62b9677b9241",
-      "size": 27986573,
-      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/80ce87e396f25ae5528570aec17b67f17b150600/files/LMT.zip",
-      "updated": "18.11.2026 17:17"
+      "sha1": "8c9019288188df394760f6a5fecaf40e514155eb",
+      "size": 28883036,
+      "url": "https://raw.githubusercontent.com/ROIIZROILMT/LMT-SEKRETIKI/b5b6787bd9d1e7a8d46de040e6716e627ecf7ed7/files/LMT.zip",
+      "updated": "19.11.2026 17:04"
     },
     {
       "id": "pack:7c52d610",
@@ -91,5 +91,5 @@
     }
   ],
   "schema": 1,
-  "updated": "18.11.2026 17:17"
+  "updated": "19.11.2026 17:04"
 }
